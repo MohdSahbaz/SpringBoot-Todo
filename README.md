@@ -37,8 +37,6 @@ Register/Login user
 
 Create, Read, Update, Delete tasks
 
-Mark tasks as done
-
 CORS handled between frontend and backend
 
 Proper API responses using ResponseEntity
